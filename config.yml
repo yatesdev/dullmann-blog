@@ -4,3 +4,6 @@ title: Chincoteague Property Owners
 theme: PaperMod
 
 googleAnalytics: UA-69025481-3
+
+params:
+  ShowShareButtons: true
