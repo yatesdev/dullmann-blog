@@ -39,6 +39,9 @@ Respectfully submitted,
 
 Deborah Ullmann
 
+If you want to file an objection to Seacrets getting a liquor license follow the instructions at the following link:
+[https://www.abc.virginia.gov/licenses/find-a-license/contested-licenses](https://www.abc.virginia.gov/licenses/find-a-license/contested-licenses)
+
 ## Articles Concerning Seacrets
 - [Washington Post Article on Seacrets](https://www.washingtonpost.com/travel/2022/09/02/seacrets-ocean-city-maryland/)
 - [Washingtonian Article on Seacrets](https://www.washingtonian.com/2021/09/01/wet-hot-vax-summer-at-seacrets/)
