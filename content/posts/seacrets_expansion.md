@@ -1,6 +1,6 @@
 ---
 title: "Seacrets Expansion"
-date: 2022-09-26T20:28:57-04:00
+date: 2022-09-26T19:49:02-04:00
 author: "Deborah Ullmann"
 draft: false
 summary: News articles concerning the expansion of Seacrets at its original location in Ocean City, MD

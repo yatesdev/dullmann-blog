@@ -1,7 +1,8 @@
 ---
 title: "Seacrets: Not Our Island’s Vibe"
-date: 2022-09-11T19:49:02-04:00
+date: 2022-09-11T21:49:02-04:00
 author: "Deborah Ullmann"
+description: Letter to the Editor of Eastern Shore Post
 draft: false
 
 cover:

@@ -1,6 +1,6 @@
 ---
 title: "Seacrets Intoxication"
-date: 2022-09-26T21:06:08-04:00
+date: 2022-09-26T20:49:02-04:00
 author: "Deborah Ullmann"
 draft: false
 summary: Articles concerning the intoxication level of patrons at Seacrets
