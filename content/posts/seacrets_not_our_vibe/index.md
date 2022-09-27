@@ -11,7 +11,7 @@ cover:
   alt: "Sunset on Assateague"
   # caption: "<text>"
   relative: false # To use relative path for cover image, used in hugo Page-bundles
-
+weight: 2
 ---
 
 I write this letter in response to the announcement that Seacrets intends to open a new location on Chincoteague Island.  As a Chincoteague home owner and tax payer, who is also a Maryland attorney who has done criminal work in Ocean City, this announcement should raise alarms for all property owners and tax payers on Chincoteague, not just those on the south end.
@@ -38,9 +38,6 @@ If locals and “come heres” who love and respect this community work together
 Respectfully submitted,
 
 Deborah Ullmann
-
-If you want to file an objection to Seacrets getting a liquor license follow the instructions at the following link:
-[https://www.abc.virginia.gov/licenses/find-a-license/contested-licenses](https://www.abc.virginia.gov/licenses/find-a-license/contested-licenses)
 
 ## Articles Concerning Seacrets
 - [Washington Post Article on Seacrets](https://www.washingtonpost.com/travel/2022/09/02/seacrets-ocean-city-maryland/)

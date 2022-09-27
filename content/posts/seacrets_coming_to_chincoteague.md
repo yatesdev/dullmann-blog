@@ -7,4 +7,5 @@ draft: false
 external_url: https://www.easternshorepost.com/2022/08/25/seacrets-restaurant-coming-to-chincoteague/
 external_url_target: _blank
 
+weight: 1
 ---
