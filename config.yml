@@ -8,6 +8,7 @@ googleAnalytics: UA-69025481-3
 params:
   ShowShareButtons: true
   hideFooter: true
+  hideMeta: true
   enableRobotsTXT: true
 
   homeInfoParams:
