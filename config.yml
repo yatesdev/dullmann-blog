@@ -10,6 +10,8 @@ params:
   hideFooter: true
   hideMeta: true
   enableRobotsTXT: true
+  ShowBreadCrumbs: true
+  ShowPostNavLinks: true
 
   homeInfoParams:
     Title:
