@@ -2,7 +2,9 @@
 title: "Seacrets: Not Our Island’s Vibe"
 date: 2022-09-11T21:49:02-04:00
 author: "Deborah Ullmann"
+
 description: Letter to the Editor of Eastern Shore Post
+summary: Letter to the Editor of Eastern Shore Post
 draft: false
 weight: 2
 ---
@@ -36,4 +38,4 @@ Deborah Ullmann
 - [Washington Post Article on Seacrets](https://www.washingtonpost.com/travel/2022/09/02/seacrets-ocean-city-maryland/)
 - [Washingtonian Article on Seacrets](https://www.washingtonian.com/2021/09/01/wet-hot-vax-summer-at-seacrets/)
 
-*If you are interested in this issue and want to help please feel free to contact me at [dullmannesq+seacrets@gmail.com](mailto:dullmannesq+seacrets@gmail.com).*
+*If you are interested in this issue and want to help please feel free to contact me at [dullmannesq+chincoteaguepropertyowners@gmail.com](mailto:dullmannesq+chincoteaguepropertyowners@gmail.com).*
