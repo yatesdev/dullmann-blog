@@ -1,0 +1,10 @@
+<footer class="footer">
+  {{- if site.Copyright }}
+  <span>{{ site.Copyright | markdownify }}</span>
+  {{- else }}
+  <span>&copy; {{ now.Year }} <a href="{{ "" | absLangURL }}">{{ site.Title }}</a></span>
+  {{- end }}
+  <span>
+    If you are interested in this issue, please contact Deborah Ullmann at <a href="mailto:dullmannesq+chincoteaguepropertyowners@gmail.com">dullmannesq@gmail.com</a>
+  </span>
+</footer>
