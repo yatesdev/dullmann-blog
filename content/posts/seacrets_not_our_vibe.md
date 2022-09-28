@@ -4,14 +4,6 @@ date: 2022-09-11T21:49:02-04:00
 author: "Deborah Ullmann"
 description: Letter to the Editor of Eastern Shore Post
 draft: false
-
-cover:
-  image: "sunset.jpeg"
-  # can also paste direct link from external site
-  # ex. https://i.ibb.co/K0HVPBd/paper-mod-profilemode.png
-  alt: "Sunset on Assateague"
-  # caption: "<text>"
-  relative: false # To use relative path for cover image, used in hugo Page-bundles
 weight: 2
 ---
 

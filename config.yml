@@ -12,5 +12,9 @@ params:
   enableRobotsTXT: true
 
   homeInfoParams:
-    Title: 
-    Content: 
+    Title:
+    Content: |
+      ![](/sunset.jpeg) 
+      # &nbsp;
+      ### The purpose of this site is to provide information about Seacrets to Island residents and other interested people.
+      
