@@ -34,8 +34,4 @@ Respectfully submitted,
 
 Deborah Ullmann
 
-## Articles Concerning Seacrets
-- [Washington Post Article on Seacrets](https://www.washingtonpost.com/travel/2022/09/02/seacrets-ocean-city-maryland/)
-- [Washingtonian Article on Seacrets](https://www.washingtonian.com/2021/09/01/wet-hot-vax-summer-at-seacrets/)
-
 *If you are interested in this issue and want to help please feel free to contact me at [dullmannesq+chincoteaguepropertyowners@gmail.com](mailto:dullmannesq+chincoteaguepropertyowners@gmail.com).*
