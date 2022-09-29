@@ -1,3 +1,7 @@
 .home-info > .entry-content > p > img {
   border-radius: 10px;
 }
+
+footer > .contact {
+  font-size: 16px;
+}
